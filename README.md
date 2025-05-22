@@ -1,7 +1,7 @@
 # ✊✋✌ Rock Paper Scissors Game
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer and try to win a best-of-three match!
----
+
 ## 🖥️ Live Demo
 
 > [Click here to play the game!](https://rock-paper-scissors-5st9sq8qn-cheruvu-shriyas-projects.vercel.app/)
