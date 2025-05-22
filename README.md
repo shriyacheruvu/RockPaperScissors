@@ -8,16 +8,8 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and 
 
 ---
 
-## 📁 Project Structure
-rock-paper-scissors/
-├── index.html      # Main game interface
-├── paper.css       # Styling for the game
-├── scissors.js     # Game logic and interactions
-└── README.md       # Project overview
 
 
-
----
 
 ## 🎮 How to Play
 
