@@ -38,6 +38,7 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and 
 
 ---
 
-## 📸 Screenshots
+## 📸 Interface Preview
 
-> 
+![RPS1](rps_1.png)
+![RPS2](rps_2.png)
